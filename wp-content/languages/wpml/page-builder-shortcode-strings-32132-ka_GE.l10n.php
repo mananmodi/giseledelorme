@@ -1,0 +1,2 @@
+<?php
+return ['messages'=>['#'=>'#','Click here to download the file'=>'ფაილის ჩამოსატვირთად დააკლიკეთ აქ','FACE TRAINING LEVEL 1'=>'სახის ვარჯიშის დონე 1','GISÈLE DELORME\'S PRESENCE IN THE WORLD'=>'ჟიზელ დელორმის ყოფნა სამყაროში','HOW TO REACH US'=>'როგორ დაგვიკავშირდეთ','http://gisele.acutetest.com/wp-content/uploads/2026/01/fiche-formation-ANG.pdf'=>'http://gisele.acutetest.com/wp-content/uploads/2026/01/fiche-formation-ANG.pdf']];
