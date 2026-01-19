@@ -17,6 +17,11 @@
 	<?php endif ?>
 
 	<!-- FOOTER -->
+<div class="footer_upc footer_up_wrap" style="background-color: #f7f7f7;">
+	<div class="container">
+    <?php echo do_shortcode('[html_block id="32415"]'); ?>
+</div>
+</div>
 	<footer class="footer-container color-scheme-<?php echo esc_attr( basel_get_opt( 'footer-style' ) ); ?>">
 		
 		<?php 

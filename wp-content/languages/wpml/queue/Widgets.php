@@ -47,4 +47,4 @@ return ['items'=>['Recent Posts'=>['urls'=>[],'names'=>['widget title - 341825a9
 <li><a href="#">Latest News</a></li>
 <li><a href="http://themeforest.net/user/xtemos" target="_blank" style="font-style: italic; color:white;">Purchase Theme</a></li>
 </ul>
-		    	'=>['urls'=>[],'names'=>['widget body - 3258a5c02cf929217cc59c2c65a98c5d'],'cmp'=>['WordPress',3]]]];
+		    	'=>['urls'=>[],'names'=>['widget body - 3258a5c02cf929217cc59c2c65a98c5d'],'cmp'=>['WordPress',3]],'Social Links'=>['urls'=>[],'names'=>['widget title - c9be990491d3ab01972954447341a36b'],'cmp'=>['WordPress',3]],'[social_buttons]'=>['urls'=>[],'names'=>['widget body - 0fb04a6f640e46b73fba3cfee9747d06'],'cmp'=>['WordPress',3]],'Gisele Delorme'=>['urls'=>[],'names'=>['widget title - 5c236b7ecbeb5e040f0f6dda1304ceff'],'cmp'=>['WordPress',3]],'Customer service'=>['urls'=>[],'names'=>['widget title - 2273d1167a6212812d95dc8fadbae78e'],'cmp'=>['WordPress',3]],'Newsletter:'=>['urls'=>[],'names'=>['widget title - 20966a36da784c2f62d105419dcb4018'],'cmp'=>['WordPress',3]]]];

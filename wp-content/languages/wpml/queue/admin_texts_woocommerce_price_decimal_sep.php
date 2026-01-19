@@ -1,2 +1,2 @@
 <?php
-return ['items'=>['.'=>['urls'=>[],'names'=>['woocommerce_price_decimal_sep'],'cmp'=>['WordPress',3]]]];
+return ['items'=>['.'=>['urls'=>[],'names'=>['woocommerce_price_decimal_sep'],'cmp'=>['WordPress',3]],','=>['urls'=>[],'names'=>['woocommerce_price_decimal_sep'],'cmp'=>['WordPress',3]]]];
